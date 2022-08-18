@@ -8,6 +8,16 @@
 ## Install Requeriments
 ```bash
 $ pip3 install -r requirements.txt
+
+or you can try 
+
+pip install aioconsole
+pip install async-generator
+pip install async-timeout
+pip install asyncio
+pip install slixmpp
+pip install logging
+
 ```
 
 ## To run client
